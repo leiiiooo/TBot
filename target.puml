@@ -1,0 +1,12 @@
+@startmindmap
++ target
+++ twitter
++++ 监控
+++++ 监控发布任务
++++ 操作
+++++ 自动转推
+++++ 自动评论
+++++ 自动点赞
+++ discord
++++ 自动加入
+@endmindmap
